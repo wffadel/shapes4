@@ -13,3 +13,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/wffadel/shapes4
+BugReports: https://github.com/wffadel/shapes4/issues
